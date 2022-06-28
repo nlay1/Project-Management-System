@@ -1,0 +1,9 @@
+project: project: Machine Maker
+Task: task: engine status: todo assignee: Edgar Hovsepyan deadline: 01/19/2023  Assignee:  State:  Deadline: 368171792:32767:1564285104
+
+Task: task: bricker status: todo assignee: Ashot Xandalyan deadline: 03/09/2022  Assignee:  State:  Deadline: 368171792:32767:1564285104
+
+Task: task: maincpp status: in progress assignee: Abgar Trumyan deadline: 03/09/2022  Assignee:  State:  Deadline: 368171792:32767:1564285104
+
+
+end
