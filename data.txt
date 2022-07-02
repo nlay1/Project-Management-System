@@ -1,0 +1,5 @@
+project: Encoder
+task: make diagram status: done assignee: Aram deadline: 11/09/2022
+task: 3d print status: done assignee: Poxos deadline: 06/23/2022
+
+end
